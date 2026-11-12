@@ -130,27 +130,29 @@ Overall, this project strengthened my understanding of reconnaissance methodolog
 
 ## 8. Evidences Collected
 
-All screenshots, command outputs and supporting documents are available in the `evidence/` directory.
+### 8.1 WHOIS Lookup
+![WHOIS Result](evidence/whois.png.png)
 
-### 8.1 Footprinting & Reconnaissance
+### 8.2 WhatWeb Scan
+![WhatWeb Result](evidence/whatweb.png)
 
-| Tool | Evidence |
-|---|---|
-| whois | `evidence/whois.png` |
-| whatweb | `evidence/whatweb.png` |
-| nslookup | `evidence/nslookup.png` |
-| curl -I | `evidence/curl-headers.png` |
-| dnsrecon | `evidence/dnsrecon.png` |
-| wafw00f | `evidence/wafw00f.png` |
+### 8.3 Nslookup
+![Nslookup Result](evidence/nslookup.png)
 
-### 8.2 Network Scanning
+### 8.4 cURL Header Analysis
+![cURL Result](evidence/curl-headers.png)
 
-| Activity | Evidence |
-|---|---|
-| Zenmap Host Discovery | `evidence/zenmap-scan.png` |
-| Network Topology | `evidence/local-network-topology.pdf` |
+### 8.5 DNSRecon Scan
+![DNSRecon Result](evidence/dnsrecon.png)
 
----
+### 8.6 Wafw00f Scan
+![Wafw00f Result](evidence/wafw00f.png)
+
+### 8.7 Zenmap Network Scan
+![Zenmap Result](evidence/zenmap-scan.png)
+
+### 8.8 Network Topology
+[View Local Network Topology (PDF)](evidence/local-network-topology.pdf)
 
 ## 👤 Author
 
